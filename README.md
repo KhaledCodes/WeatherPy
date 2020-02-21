@@ -1,7 +1,7 @@
 # python-api-challenge
 Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
 
-![Equator](Images/equatorsign.png)
+![Equator](equatorsign.png)
 
 ## WeatherPy
 
