@@ -13,3 +13,5 @@ Your objective is to build a series of scatter plots to showcase the following r
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
+
+![Viz](weatherpy-all.png)
